@@ -30,7 +30,7 @@ Think of it as “learning with me” code, if you’re new to LLM internals, th
 ---
 
 ## Acknowledgements
-- [Dr. Raj Abhijit Dandekar]([https://www.youtube.com/@Vizuara](https://www.youtube.com/watch?v=Xpr8D6LeAtw&list=PLPTV0NXA_ZSgsLAr8YCgCwhPIJNNtexWu)) for the amazing playlist that sparked this journey  
+- [Dr. Raj Abhijit Dandekar](https://www.youtube.com/watch?v=Xpr8D6LeAtw&list=PLPTV0NXA_ZSgsLAr8YCgCwhPIJNNtexWu) for the amazing playlist that sparked this journey  
 - [Sebastian Raschka](https://sebastianraschka.com/) for *Build a Large Language Model from Scratch*  
 
 ---
